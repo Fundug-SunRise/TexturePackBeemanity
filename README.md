@@ -1,3 +1,2 @@
 ﻿# BeeTexturePack
- 42
 
