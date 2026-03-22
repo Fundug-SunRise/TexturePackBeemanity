@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "BeeManity",
+    "pack_format": 94,
+    "supported_formats": 94,
+    "min_format": 4,
+    "max_format": 94
+  }
+}
